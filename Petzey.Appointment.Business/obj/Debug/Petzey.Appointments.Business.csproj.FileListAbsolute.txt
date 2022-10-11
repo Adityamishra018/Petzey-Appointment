@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\C#VsProjects\Petzey.Appointment\Petzey.Appointment.Business\bin\Debug\Petzey.Appointment.Business.dll
+C:\Users\Admin\Documents\C#VsProjects\Petzey.Appointment\Petzey.Appointment.Business\bin\Debug\Petzey.Appointment.Business.pdb
+C:\Users\Admin\Documents\C#VsProjects\Petzey.Appointment\Petzey.Appointment.Business\bin\Debug\Petzey.Appointment.Data.dll
+C:\Users\Admin\Documents\C#VsProjects\Petzey.Appointment\Petzey.Appointment.Business\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\C#VsProjects\Petzey.Appointment\Petzey.Appointment.Business\bin\Debug\Petzey.Appointment.Data.pdb
+C:\Users\Admin\Documents\C#VsProjects\Petzey.Appointment\Petzey.Appointment.Business\bin\Debug\Petzey.Appointment.Data.dll.config
+C:\Users\Admin\Documents\C#VsProjects\Petzey.Appointment\Petzey.Appointment.Business\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\C#VsProjects\Petzey.Appointment\Petzey.Appointment.Business\obj\Debug\Petzey.Appointments.Business.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\C#VsProjects\Petzey.Appointment\Petzey.Appointment.Business\obj\Debug\Petzey.Appointments.Business.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C#VsProjects\Petzey.Appointment\Petzey.Appointment.Business\obj\Debug\Petzey.Appointments.Business.csproj.CopyComplete
+C:\Users\Admin\Documents\C#VsProjects\Petzey.Appointment\Petzey.Appointment.Business\obj\Debug\Petzey.Appointment.Business.dll
+C:\Users\Admin\Documents\C#VsProjects\Petzey.Appointment\Petzey.Appointment.Business\obj\Debug\Petzey.Appointment.Business.pdb
