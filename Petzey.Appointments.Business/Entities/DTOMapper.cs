@@ -106,6 +106,7 @@ namespace Petzey.Appointments.Business
             dto.OwnerId = ap.OwnerId;
             dto.PetId = ap.PetId;
             dto.AppointmentId = ap.AppointmentId;
+	    dto.Issue = ap.Issue;
 
             if (ap.Status == AppointMentStatus.Confirmed)
                 dto.Status = "Confirmed";
